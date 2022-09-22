@@ -7,7 +7,7 @@
     "express": "latest",
     "body-parser": "latest",
     "@sap/xsenv": "latest",
-    "@sap/xssec": "^2",
+    "@sap/xssec": "latest",
     "passport": "latest"
   },
   "scripts": {
